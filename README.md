@@ -11,3 +11,11 @@
 # bankers
 
 <img width="1432" height="738" alt="Screenshot 2026-03-30 103449" src="https://github.com/user-attachments/assets/c6b00812-b95c-45d9-92a8-683a6e9dd708" />
+
+#page
+<img width="583" height="201" alt="Screenshot 2026-04-27 123159" src="https://github.com/user-attachments/assets/"/>
+<img width="583" height="201" alt="Screenshot 2026-04-27 123334" src="https://github.com/user-attachments/assets/"/>
+
+#disk
+<img width="561" height="199" alt="Screenshot 2026-04-27 124603" src = "https://github.com/user-attachments/assets/"/>
+<img width="561" height="199" alt="Screenshot 2026-04-27 124723" src = "https://github.com/user-attachments/assets/"/>
